@@ -11,6 +11,14 @@ $warning:       #FFFF;
 //$light:         $gray-100;
 //$dark:          $gray-900;
 
+
+#hero {
+  background-image: url(../images/hero-banner.png);
+  background-position: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
 @import "../node_modules/bootstrap/scss/bootstrap";
 
 // Then add additional custom code here
