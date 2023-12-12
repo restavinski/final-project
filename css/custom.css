@@ -11875,8 +11875,20 @@ img {
   width: 100px;
 }
 
+.foto {
+  max-height: 10px;
+}
+
 .heading-1 {
   font-size: 2.5rem;
+}
+
+.material-symbols-outlined {
+  font-size: 5rem;
+}
+
+.material-symbols-outlined.-ballone {
+  color: white;
 }
 
 /*# sourceMappingURL=custom.css.map */
